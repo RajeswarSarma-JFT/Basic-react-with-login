@@ -1,0 +1,6 @@
+docs/*
+public
+assets
+README.md
+**/*.json
+.eslintrc
